@@ -15,3 +15,5 @@ Imports:
 RoxygenNote: 7.3.1
 Depends: 
     R (>= 2.10)
+URL: https://github.com/Le-bruit-de-nos-pas/VanguardStrategyTools
+BugReports: https://github.com/Le-bruit-de-nos-pas/VanguardStrategyTools/issues
