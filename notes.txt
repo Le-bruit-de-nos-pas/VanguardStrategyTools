@@ -1,0 +1,24 @@
+# RTools42
+- https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.html
+
+# MiKTeX
+- https://miktex.org/download
+
+Add R and RTools to PATH. RTools needs to be above R itself.
+
+use_package("dplyr") to state packages to be imported
+use_r("my_function") to create another function
+use_r(data) to create data.R and describe data.rda included
+
+
+- https://www.youtube.com/watch?v=3N0klPMNyLY&list=PL4ZUlAlk7Qic9a6aBIMcRs7_CLbIzCalW&index=5
+- https://www.youtube.com/watch?v=N7McZ7XfnO0
+
+
+Download git for windows
+Add to PATH (both options)
+Set VSCode as dfault editor
+Within RStudio, change default terminal to Git Bach
+git config --global user.name "Jane Doe"
+git config --global user.email "jane@example.com"
+git config --global --list
